@@ -1,0 +1,23 @@
+langchain
+langchain-openai
+langchain-community
+langchain-experimental
+langchain-neo4j
+neo4j
+fastapi
+uvicorn
+streamlit
+playwright
+beautifulsoup4
+# nemoguardrails (Disabled due to Python 3.14 incompatibility)
+deepeval
+langsmith
+python-dotenv
+requests
+langchain-chroma
+langchain-core
+nest_asyncio
+pydantic>=2
+langchain-text-splitters
+langsmith
+
